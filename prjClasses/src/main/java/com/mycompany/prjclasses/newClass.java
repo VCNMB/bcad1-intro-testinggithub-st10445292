@@ -11,6 +11,8 @@ package com.mycompany.prjclasses;
  */
 public class newClass {
     
+    public String strSecondClassVar = "Testing";
+    
     public void helloClass()
     {
         System.out.println("Hello from the second class");
